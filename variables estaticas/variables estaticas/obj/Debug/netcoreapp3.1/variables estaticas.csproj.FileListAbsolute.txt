@@ -1,0 +1,13 @@
+F:\Proyectos c#\variables estaticas\variables estaticas\bin\Debug\netcoreapp3.1\variables estaticas.exe
+F:\Proyectos c#\variables estaticas\variables estaticas\bin\Debug\netcoreapp3.1\variables estaticas.deps.json
+F:\Proyectos c#\variables estaticas\variables estaticas\bin\Debug\netcoreapp3.1\variables estaticas.runtimeconfig.json
+F:\Proyectos c#\variables estaticas\variables estaticas\bin\Debug\netcoreapp3.1\variables estaticas.runtimeconfig.dev.json
+F:\Proyectos c#\variables estaticas\variables estaticas\bin\Debug\netcoreapp3.1\variables estaticas.dll
+F:\Proyectos c#\variables estaticas\variables estaticas\bin\Debug\netcoreapp3.1\variables estaticas.pdb
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.csprojAssemblyReference.cache
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.csproj.CoreCompileInputs.cache
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.AssemblyInfoInputs.cache
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.AssemblyInfo.cs
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.dll
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.pdb
+F:\Proyectos c#\variables estaticas\variables estaticas\obj\Debug\netcoreapp3.1\variables estaticas.genruntimeconfig.cache
