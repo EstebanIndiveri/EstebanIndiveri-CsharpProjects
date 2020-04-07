@@ -1,0 +1,13 @@
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.exe
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.deps.json
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.runtimeconfig.json
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.runtimeconfig.dev.json
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.dll
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.pdb
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.AssemblyInfoInputs.cache
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.AssemblyInfo.cs
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.dll
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.pdb
+C:\Users\estel\source\repos\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.genruntimeconfig.cache
