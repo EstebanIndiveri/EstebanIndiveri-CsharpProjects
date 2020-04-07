@@ -1,0 +1,13 @@
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\bin\Debug\netcoreapp3.1\HerenciaDeClases.exe
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\bin\Debug\netcoreapp3.1\HerenciaDeClases.deps.json
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\bin\Debug\netcoreapp3.1\HerenciaDeClases.runtimeconfig.json
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\bin\Debug\netcoreapp3.1\HerenciaDeClases.runtimeconfig.dev.json
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\bin\Debug\netcoreapp3.1\HerenciaDeClases.dll
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\bin\Debug\netcoreapp3.1\HerenciaDeClases.pdb
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.csprojAssemblyReference.cache
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.csproj.CoreCompileInputs.cache
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.AssemblyInfoInputs.cache
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.AssemblyInfo.cs
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.dll
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.pdb
+F:\Proyectos c#\HerenciaDeClases\HerenciaDeClases\obj\Debug\netcoreapp3.1\HerenciaDeClases.genruntimeconfig.cache
