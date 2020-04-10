@@ -1,0 +1,13 @@
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\bin\Debug\netcoreapp3.1\ClasesGenericasCurso.exe
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\bin\Debug\netcoreapp3.1\ClasesGenericasCurso.deps.json
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\bin\Debug\netcoreapp3.1\ClasesGenericasCurso.runtimeconfig.json
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\bin\Debug\netcoreapp3.1\ClasesGenericasCurso.runtimeconfig.dev.json
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\bin\Debug\netcoreapp3.1\ClasesGenericasCurso.dll
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\bin\Debug\netcoreapp3.1\ClasesGenericasCurso.pdb
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.AssemblyInfoInputs.cache
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.AssemblyInfo.cs
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.dll
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.pdb
+C:\Users\estel\source\repos\ClasesGenericasCurso\ClasesGenericasCurso\obj\Debug\netcoreapp3.1\ClasesGenericasCurso.genruntimeconfig.cache

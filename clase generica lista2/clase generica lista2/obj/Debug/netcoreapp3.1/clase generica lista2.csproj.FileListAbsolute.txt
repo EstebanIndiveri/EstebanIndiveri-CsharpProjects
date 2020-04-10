@@ -1,0 +1,13 @@
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\bin\Debug\netcoreapp3.1\clase generica lista2.exe
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\bin\Debug\netcoreapp3.1\clase generica lista2.deps.json
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\bin\Debug\netcoreapp3.1\clase generica lista2.runtimeconfig.json
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\bin\Debug\netcoreapp3.1\clase generica lista2.runtimeconfig.dev.json
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\bin\Debug\netcoreapp3.1\clase generica lista2.dll
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\bin\Debug\netcoreapp3.1\clase generica lista2.pdb
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.csprojAssemblyReference.cache
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.csproj.CoreCompileInputs.cache
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.AssemblyInfoInputs.cache
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.AssemblyInfo.cs
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.dll
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.pdb
+C:\Users\estel\source\repos\clase generica lista2\clase generica lista2\obj\Debug\netcoreapp3.1\clase generica lista2.genruntimeconfig.cache
